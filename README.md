@@ -1,5 +1,3 @@
-test
-
 ## Project Aim
 
 To create a basic clone of AirBnb in a team using a Javascript frontend and Node.js backend.  
