@@ -1,3 +1,5 @@
+Spaces test
+
 ## Project Aim
 
 To create a basic clone of AirBnb in a team using a Javascript frontend and Node.js backend.  
@@ -27,7 +29,7 @@ So I can stay in an available space
 I would like to be able to book an available space for a night
 
 As a User
-So there are no double bookings 
+So there are no double bookings
 I would like nights for which a space has already been booked to not be available for users to book that space
 ```
 
@@ -43,7 +45,7 @@ I would like to be able to provide a name, description and price per night for m
 
 As a User
 So I can specify when my place is available
-I would like to be able to specify the range of dates in which the space is available 
+I would like to be able to specify the range of dates in which the space is available
 
 As a User
 So I can approve who will stay at my space
